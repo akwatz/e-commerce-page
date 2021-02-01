@@ -23,5 +23,7 @@ node_modules/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+.gitignore
 .vscode/settings.json
 frontend/.eslintcache
+frontend/package-lock.json
